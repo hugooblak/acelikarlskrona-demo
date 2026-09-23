@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'AC El I Karlskrona AB',
+	'bransch'        => 'Elektriker',
 	'telefon'        => '070-849 24 43',
 	'telefon_tel'    => '+46708492443',
 	'ort'            => 'Karlskrona',
